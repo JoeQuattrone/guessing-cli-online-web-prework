@@ -18,5 +18,5 @@ def run_guessing_game
   break if input == "exit"
     puts "Goodbye!"
   end
-  
+end
 end
